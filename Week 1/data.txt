@@ -1,0 +1,12 @@
+mini,22,balkumari
+nikesh,24,basantapur
+sudesh,43,kirtipur
+kritita,20,baneshwor
+prejina,29,gathaghar
+nikesh,4,india
+samana,23,paris
+anjali,67,london
+sampanna,34,switzerland
+mini,56,New york
+m,56,ds
+sdd,4,ds
